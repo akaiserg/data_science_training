@@ -1,0 +1,37 @@
+https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA
+
+pvalue and null hypothesis
+
+
+
+f-statistics
+
+the lower the f statictics  is better 
+
+
+ols assumtions
+
+1 linearity:   as to be a relation with a line, or it can be done a transformation to get that line
+
+
+
+
+
+2 no endogenety:  e yo forgot  to include a  relevant variable (ommited  variables bias)
+
+
+
+
+3 normality  and  homoscedasticity:    change to get a line by using log  of x or y  or  booth  log -log model   (elasticity)
+
+
+4 no autocoorelation   detetion -> durbin-watson more than 2 no autocoorelation     below 1 and  above 3 alarm     no remedy...  it's used  autoregressive model  moving average model (time series data)
+
+
+
+5  no multicolliniarity    strong relation   how to fix  get rid of one variable  transforn two into one
+
+
+normalization 
+
+http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/
